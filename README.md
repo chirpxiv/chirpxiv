@@ -13,7 +13,7 @@ If you like my work, please consider supporting me on [Ko-Fi](https://ko-fi.com/
 - **Databases:** MongoDB, Redis, MySQL
 - **Frameworks:** Express, Electron
 - **Game Engines:** Godot
-- **Devops:** Docker
+- **DevOps:** Docker
 
 ### My Projects:
 - **Bottingway:** A specialised Discord bot for FFXIV communities.
