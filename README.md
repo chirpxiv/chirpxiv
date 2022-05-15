@@ -5,14 +5,14 @@ Hi! I'm Chirp, a freelance software developer from England.
 Links: [Website](https://chirp.codes), [Twitter](https://twitter.com/chirp_codes)
 
 ### My Experience:
-- Languages: JavaScript, Python, C#, Lua
-- Databases: MongoDB, Redis, MySQL
-- Frameworks: Express, Electron
-- Game Engines: Godot
+- **Languages:** JavaScript, Python, C#, Lua
+- **Databases:** MongoDB, Redis, MySQL
+- **Frameworks:** Express, Electron
+- **Game Engines:** Godot
 
 ### My Projects:
-- Bottingway, a specialised Discord bot for FFXIV communities.
-- Intercept, a puzzle-based PvP game for programmers.
+- **Bottingway:** A specialised Discord bot for FFXIV communities.
+- **Intercept:** A puzzle-based PvP game for programmers.
 
 <!--
 **chrpy/chrpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
