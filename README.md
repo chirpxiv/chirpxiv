@@ -4,7 +4,7 @@ Hi! I'm Chirp, a freelance software developer from England.
 <br/>
 Links: [Website](https://chirp.codes), [Twitter](https://twitter.com/chirp_codes)
 
-### My experience:
+### My Experience:
 - Languages: JavaScript, Python, C#, Lua
 - Databases: MongoDB, Redis, MySQL
 - Frameworks: Express, Electron
