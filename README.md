@@ -4,6 +4,8 @@ Hi! I'm Chirp, a freelance software developer from England.
 <br/>
 Links: [Website](https://chirp.codes), [Twitter](https://twitter.com/chirp_codes)
 
+If you like my work, please consider supporting me on [Ko-Fi](https://ko-fi.com/chirpcodes)!
+
 ### My Experience:
 - **Languages:** JavaScript, Python, C#, Lua
 - **Databases:** MongoDB, Redis, MySQL
