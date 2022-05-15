@@ -7,6 +7,7 @@ Links: [Website](https://chirp.codes), [Twitter](https://twitter.com/chirp_codes
 ### My experience:
 - Languages: JavaScript, Python, C#, Lua
 - Databases: MongoDB, Redis, MySQL
+- Frameworks: Express, Electron
 - Game Engines: Godot
 
 ### My Projects:
