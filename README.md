@@ -17,6 +17,7 @@ If you like my work, please consider supporting me on [Ko-Fi](https://ko-fi.com/
 
 ### My Projects:
 - **Bottingway:** A specialised Discord bot for FFXIV communities.
+- **Ktisis:** Datamining suite for FFXIV. Heavily under development.
 - **Intercept:** A puzzle-based PvP game for programmers.
 
 <!--
