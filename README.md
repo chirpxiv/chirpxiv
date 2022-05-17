@@ -1,6 +1,6 @@
 ### My Profile
 
-Hi! I'm Chirp, a freelance software developer from England.
+Hi! I'm Chirp, a software developer from England.
 
 If you like my work, please consider supporting me on [Ko-Fi](https://ko-fi.com/chirpcodes)!
 
