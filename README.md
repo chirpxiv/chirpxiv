@@ -12,7 +12,7 @@ If you like my work, please consider supporting me on [Ko-Fi](https://ko-fi.com/
 - **Languages:** JavaScript, Python, C#, Lua
 - **Databases:** MongoDB, Redis, MySQL
 - **Frameworks:** Express, Electron
-- **Game Engines:** Godot
+- **Game Engines:** Godot, Love2D
 
 ### My Projects:
 - **Bottingway:** A specialised Discord bot for FFXIV communities.
