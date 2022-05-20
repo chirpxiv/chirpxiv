@@ -2,7 +2,7 @@
 
 Hi! I'm Chirp, a software developer from England.
 
-If you like my work, please consider supporting me on [Ko-Fi](https://ko-fi.com/chirpcodes)!
+If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/chirpcodes)!
 
 **Discord:** chirp#1337
 <br/>
