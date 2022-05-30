@@ -2,6 +2,8 @@
 
 Hi! I'm Chirp, a software developer from England.
 
+Much of my open-source work here is a means of expanding my knowledge as a programmer and learning new things!
+
 If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/chirpcodes)!
 
 **Discord:** chirp#1337
