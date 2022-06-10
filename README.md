@@ -19,6 +19,7 @@ If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/
 ### My Projects:
 - **Bottingway:** A specialised Discord bot for FFXIV communities.
 - **Ktisis:** Datamining toolkit for FFXIV. Heavily under development.
+- **Mare Synchronos:** A plugin to synchronise player mods between users without the need to manually install.
 - **Intercept:** A puzzle-based PvP game for programmers.
 
 <!--
