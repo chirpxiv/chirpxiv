@@ -17,7 +17,6 @@ If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/
 - **Game Engines:** Godot, Love2D
 
 ### My Projects:
-- **Mare Synchronos:** A plugin integration for Penumbra to sync player mods between users.
 - **Bottingway:** A specialised Discord bot for FFXIV communities.
 - **Ktisis:** Datamining toolkit for FFXIV. Heavily under development.
 - **Intercept:** A puzzle-based PvP game for programmers.
