@@ -1,6 +1,6 @@
 ### My Profile
 
-Hi! I'm Chirp, a software developer from England.
+Hi! I'm Chirp, a software developer from the UK.
 
 Much of my open-source work here is a means of expanding my knowledge as a programmer and learning new things!
 
