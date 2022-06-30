@@ -11,9 +11,8 @@ If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/
 **Links:** [Website](https://chirp.codes), [Twitter](https://twitter.com/chirp_codes)
 
 ### My Experience:
-- **Languages:** JS, Rust, C#, Python, Lua, PHP
+- **Languages:** Rust, C#, C++, JS, Lua, PHP
 - **Databases:** MongoDB, Redis, MySQL
-- **Frameworks:** Express, Electron
 - **Game Engines:** Godot, Love2D
 
 ### My Projects:
