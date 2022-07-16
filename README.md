@@ -18,7 +18,7 @@ If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/
 ### My Projects:
 - **Bottingway:** A specialised Discord bot for FFXIV communities.
 - **Ktisis:** Datamining toolkit for FFXIV. Heavily under development.
-  - Sub-project: Internal tool for ingame posing and environment manipulation.
+  - Sub-project: Internal tool for ingame character and environment manipulation.
 - **Intercept:** A puzzle-based PvP game for programmers.
 
 <!--
