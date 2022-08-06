@@ -8,7 +8,7 @@ If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/
 
 **Discord:** chirp#1337
 <br/>
-**Links:** [Website](https://chirp.codes), [Twitter](https://twitter.com/chirp_codes)
+**Links:** [Website](https://chirp.codes), [Twitter](https://twitter.com/chirp_codes), [Discord]( https://discord.gg/vUPueGMmJn)
 
 ### My Experience:
 - **Languages:** Rust, JS, C#, C++, Lua
