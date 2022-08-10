@@ -16,9 +16,7 @@ If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/
 - **Game Engines:** Godot, Love2D
 
 ### My Projects:
-- **Ktisis:** A collection of projects focused on FFXIV modding and datamining.
-   - GPose+
-   - Datamining Toolkit
+- **Ktisis:** A scene editing plugin for FFXIV.
 - **Bottingway:** A specialised Discord bot for FFXIV communities.
 - **Intercept:** A puzzle-based PvP game for programmers.
 
