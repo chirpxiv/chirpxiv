@@ -10,16 +10,6 @@ If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/
 <br/>
 **Links:** [Website](https://chirp.codes), [Twitter](https://twitter.com/chirp_codes), [Discord]( https://discord.gg/vUPueGMmJn)
 
-### My Experience:
-- **Languages:** Rust, JS, C#, C++, Lua
-- **Databases:** MongoDB, Redis, MySQL
-- **Game Engines:** Godot, Love2D
-
-### My Projects:
-- **Ktisis:** A scene editing plugin for FFXIV.
-- **Bottingway:** A specialised Discord bot for FFXIV communities.
-- **Intercept:** A puzzle-based PvP game for programmers.
-
 <!--
 **chrpy/chrpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
