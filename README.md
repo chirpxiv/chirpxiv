@@ -8,7 +8,7 @@ If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/
 
 **Discord:** chirp#1337
 <br/>
-[Twitter](https://twitter.com/chirp_codes)
+Twitter: [@chirp_codes](https://twitter.com/chirp_codes)
 
 <!--
 **chrpy/chrpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
