@@ -4,11 +4,11 @@ Hi! I'm Chirp, a software developer from the UK.
 
 Much of my open-source work here is a means of expanding my knowledge as a programmer and learning new things!
 
-If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/chirpcodes)!
+If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/chirpxiv)!
 
 **Discord:** chirp#1337
 <br/>
-**Twitter:** [@chirp_codes](https://twitter.com/chirp_codes)
+**Twitter:** [@chirpxiv](https://twitter.com/chirpxiv)
 
 <!--
 **chrpy/chrpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
