@@ -2,7 +2,7 @@
 
 Hi! I'm Chirp, a self-taught programmer from the UK.
 
-Much of my open-source work here is a means of expanding my knowledge as a programmer and learning new things!
+Much of my open-source work here is a means of expanding my knowledge as a developer and learning new things.
 
 If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/chirpxiv)!
 
