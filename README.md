@@ -1,26 +1,15 @@
-### My Profile
+### Hi there!
 
-Hi! I'm Chirp, a self-taught programmer from the UK.
+I'm Chirp, a self-taught programmer from the UK.
 
 Much of my open-source work here is a means of expanding my knowledge as a developer and learning new things.
+
+![Chirp's GitHub Stats](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=chirpxiv&layout=compact&theme=dracula&hide=GLSL)
+
+### Links
 
 If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/chirpxiv)!
 
 **Discord:** chirp#1337
 <br/>
 **Twitter:** [@chirpxiv](https://twitter.com/chirpxiv)
-
-<!--
-**chrpy/chrpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
