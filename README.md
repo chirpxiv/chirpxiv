@@ -1,3 +1,9 @@
+```
+     ___
+    ('v')
+   ((___))
+----"---"----
+```
 ### Hi there!
 
 I'm Chirp, a self-taught programmer from the UK.
