@@ -6,7 +6,7 @@
 ```
 ### Hi there!
 
-I'm Chirp, a self-taught programmer from the UK.
+I'm chirp, a primarily self-taught programmer from the UK with an interest in game development and modding.
 
 Much of my open-source work here is a means of expanding my knowledge as a developer and learning new things.
 
