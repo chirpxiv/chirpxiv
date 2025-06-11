@@ -16,7 +16,7 @@ If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/
 
 **Twitter:** [@chirpxiv](https://twitter.com/chirpxiv)
 <br/>
-**Discord:** @bnuuuuuuuuuuuuuuuuuuuuuuuuuuuuuy
+**Discord:** @chirpxiv
 
 ### Stats
 
