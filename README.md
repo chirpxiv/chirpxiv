@@ -6,7 +6,7 @@
 ```
 ### Hi there!
 
-I'm chirp, a primarily self-taught programmer from the UK with an interest in game development and modding.
+I'm chirp, a self-taught programmer from the UK with an interest in game development and modding.
 
 If you like my work, please consider supporting me on [Ko-fi](https://ko-fi.com/chirpxiv)!
 
