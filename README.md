@@ -1,9 +1,3 @@
-```
-     ___
-    ('v')  ,(chirp)
-   ((___))
-----"---"----
-```
 ### Hi there!
 
 I'm chirp, a self-taught programmer from the UK with an interest in game development and modding.
